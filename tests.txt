@@ -1,0 +1,98 @@
+[==========] Running 45 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 45 tests from StringExtendTest
+[ RUN      ] StringExtendTest.addBeforeChar
+[       OK ] StringExtendTest.addBeforeChar (1 ms)
+[ RUN      ] StringExtendTest.addBeforeString
+[       OK ] StringExtendTest.addBeforeString (0 ms)
+[ RUN      ] StringExtendTest.addAfterChar
+[       OK ] StringExtendTest.addAfterChar (0 ms)
+[ RUN      ] StringExtendTest.addAfterString
+[       OK ] StringExtendTest.addAfterString (0 ms)
+[ RUN      ] StringExtendTest.remove1arg
+[       OK ] StringExtendTest.remove1arg (0 ms)
+[ RUN      ] StringExtendTest.remove2arg
+[       OK ] StringExtendTest.remove2arg (0 ms)
+[ RUN      ] StringExtendTest.removeBetween
+[       OK ] StringExtendTest.removeBetween (0 ms)
+[ RUN      ] StringExtendTest.replace
+[       OK ] StringExtendTest.replace (0 ms)
+[ RUN      ] StringExtendTest.indexOfChar
+[       OK ] StringExtendTest.indexOfChar (0 ms)
+[ RUN      ] StringExtendTest.indexOfString
+[       OK ] StringExtendTest.indexOfString (0 ms)
+[ RUN      ] StringExtendTest.lastIndexOfChar
+[       OK ] StringExtendTest.lastIndexOfChar (0 ms)
+[ RUN      ] StringExtendTest.latIndexOfString
+[       OK ] StringExtendTest.latIndexOfString (0 ms)
+[ RUN      ] StringExtendTest.indexOfAnyChar
+[       OK ] StringExtendTest.indexOfAnyChar (0 ms)
+[ RUN      ] StringExtendTest.indexOfAnyString
+[       OK ] StringExtendTest.indexOfAnyString (0 ms)
+[ RUN      ] StringExtendTest.lastIndexOfAnyChar
+[       OK ] StringExtendTest.lastIndexOfAnyChar (0 ms)
+[ RUN      ] StringExtendTest.lastIndexOfString
+[       OK ] StringExtendTest.lastIndexOfString (0 ms)
+[ RUN      ] StringExtendTest.compare1
+[       OK ] StringExtendTest.compare1 (0 ms)
+[ RUN      ] StringExtendTest.compare2
+[       OK ] StringExtendTest.compare2 (0 ms)
+[ RUN      ] StringExtendTest.join1
+[       OK ] StringExtendTest.join1 (0 ms)
+[ RUN      ] StringExtendTest.join2
+[       OK ] StringExtendTest.join2 (0 ms)
+[ RUN      ] StringExtendTest.sort1
+[       OK ] StringExtendTest.sort1 (0 ms)
+[ RUN      ] StringExtendTest.sort2
+[       OK ] StringExtendTest.sort2 (0 ms)
+[ RUN      ] StringExtendTest.sort3
+[       OK ] StringExtendTest.sort3 (0 ms)
+[ RUN      ] StringExtendTest.sort4
+[       OK ] StringExtendTest.sort4 (0 ms)
+[ RUN      ] StringExtendTest.substring
+[       OK ] StringExtendTest.substring (0 ms)
+[ RUN      ] StringExtendTest.substringBetween
+[       OK ] StringExtendTest.substringBetween (0 ms)
+[ RUN      ] StringExtendTest.toUpper
+[       OK ] StringExtendTest.toUpper (0 ms)
+[ RUN      ] StringExtendTest.toLowUpCase
+[       OK ] StringExtendTest.toLowUpCase (0 ms)
+[ RUN      ] StringExtendTest.toUpLowCase
+[       OK ] StringExtendTest.toUpLowCase (0 ms)
+[ RUN      ] StringExtendTest.reverce
+[       OK ] StringExtendTest.reverce (0 ms)
+[ RUN      ] StringExtendTest.fillBefore
+[       OK ] StringExtendTest.fillBefore (0 ms)
+[ RUN      ] StringExtendTest.fillAfter
+[       OK ] StringExtendTest.fillAfter (0 ms)
+[ RUN      ] StringExtendTest.supplimentBefore
+[       OK ] StringExtendTest.supplimentBefore (0 ms)
+[ RUN      ] StringExtendTest.supplimentAfter
+[       OK ] StringExtendTest.supplimentAfter (0 ms)
+[ RUN      ] StringExtendTest.trim
+[       OK ] StringExtendTest.trim (1 ms)
+[ RUN      ] StringExtendTest.firsti
+[       OK ] StringExtendTest.firsti (0 ms)
+[ RUN      ] StringExtendTest.lasti
+[       OK ] StringExtendTest.lasti (1 ms)
+[ RUN      ] StringExtendTest.mostPopularSymbol
+[       OK ] StringExtendTest.mostPopularSymbol (0 ms)
+[ RUN      ] StringExtendTest.splitChar
+[       OK ] StringExtendTest.splitChar (0 ms)
+[ RUN      ] StringExtendTest.splitString
+[       OK ] StringExtendTest.splitString (0 ms)
+[ RUN      ] StringExtendTest.startWithChar
+[       OK ] StringExtendTest.startWithChar (0 ms)
+[ RUN      ] StringExtendTest.startWithString
+[       OK ] StringExtendTest.startWithString (0 ms)
+[ RUN      ] StringExtendTest.endWithChar
+[       OK ] StringExtendTest.endWithChar (0 ms)
+[ RUN      ] StringExtendTest.endWithString
+[       OK ] StringExtendTest.endWithString (0 ms)
+[ RUN      ] StringExtendTest.set
+[       OK ] StringExtendTest.set (0 ms)
+[----------] 45 tests from StringExtendTest (84 ms total)
+
+[----------] Global test environment tear-down
+[==========] 45 tests from 1 test case ran. (88 ms total)
+[  PASSED  ] 45 tests.
