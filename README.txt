@@ -1,0 +1,1 @@
+this project includes a class containing logic for working with strings, implemented for the c# language and rewritten for the c++ language.
